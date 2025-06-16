@@ -8,5 +8,26 @@ e tomarem decisões mais informadas sobre sua rotina e saúde mental.
 ##
 TECNOLOGIAS
 <br>
-[![SkillIcons](https://skillicons.dev/icons?i=react,postgres,mysql)](https://skillicons.dev)<br/>
+<br>
+[![SkillIcons](https://skillicons.dev/icons?i=react)](https://skillicons.dev)<br/>
+<br>
+<br>
+*React Native: React Native é uma ferramenta para criar apps móveis com JavaScript e React, permitindo rodar no iOS e Android com o mesmo código.
+<br>
+[![SkillIcons](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)<br/>
+<br>
+<br>
+PostgreSQL: PostgreSQL é um banco de dados relacional de código aberto, poderoso e altamente escalável, usado para armazenar e gerenciar dados de forma eficiente.
+<br>
+[![SkillIcons](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br/>
+<br>
+<br>
+MySQL: MySQL é um banco de dados relacional de código aberto, popular por sua velocidade e simplicidade, usado para armazenar e gerenciar dados.
+
+
+
+
+
+
+
 ##
