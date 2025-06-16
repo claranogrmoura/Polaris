@@ -7,5 +7,5 @@ e tomarem decisões mais informadas sobre sua rotina e saúde mental.
 
 ##
 TECNOLOGIAS
-[![SkillIcons](https://skillicons.dev/icons?i=reactnative,postgreslq)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=react,postgres,mysql)](https://skillicons.dev)<br/>
 ##
