@@ -4,7 +4,11 @@ O POLARIS é um Aplicativo de Monitoamento para Neurodivergentes,incluindo aquel
 transtorno do espectro autista (TEA), no monitoramento de seu bem-estar. O aplicativo coleta e organiza dados de rotina, como padrões de sono, tempo de tela e nível de atividade física, 
 permitindo que o usuário acompanhe seu comportamento ao longo do tempo. O objetivo principal é oferecer uma interface acessível e intuitiva que auxilie os usuários a identificarem padrões
 e tomarem decisões mais informadas sobre sua rotina e saúde mental. 
-![Logo do projeto](images/logo.png)
+<br>
+<div align="center">
+<img src="LogodoProjeto.jpg" width="200" align= "center">
+</div>
+
 
 ##
  TECNOLOGIAS
