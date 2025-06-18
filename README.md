@@ -1,4 +1,4 @@
-# POLARIS 
+## POLARIS 🐻‍❄️
 
 O POLARIS é um Aplicativo de Monitoamento para Neurodivergentes,incluindo aquelas com transtorno afetivo bipolar (TAB), transtorno do déficit de atenção e hiperatividade (TDAH) e
 transtorno do espectro autista (TEA), no monitoramento de seu bem-estar. O aplicativo coleta e organiza dados de rotina, como padrões de sono, tempo de tela e nível de atividade física, 
@@ -10,8 +10,8 @@ e tomarem decisões mais informadas sobre sua rotina e saúde mental.
 </div>
 
 
-##
- TECNOLOGIAS
+---
+ ## TECNOLOGIAS
 <br>
 <br>
 [![SkillIcons](https://skillicons.dev/icons?i=react)](https://skillicons.dev)<br/>
@@ -34,6 +34,17 @@ MySQL: MySQL é um banco de dados relacional de código aberto, popular por sua 
 
 v.8.4.0
 
+
+---
+
+## Contribuindo 🤝  
+Contribuições são bem-vindas! Se quiser melhorar algo:  
+1. Faça um fork do repositório.  
+2. Crie uma branch para a sua funcionalidade:  
+   ```bash
+   git checkout -b minha-feature
+   ```  
+3. Submeta um pull request após as alterações.  
 
 
 
