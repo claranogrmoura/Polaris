@@ -14,7 +14,7 @@ e tomarem decisões mais informadas sobre sua rotina e saúde mental.
  ## TECNOLOGIAS
 <br>
 <br>
-[![SkillIcons](https://skillicons.dev/icons?i=react)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=react)](https://skillicons.dev)]<br/>
 <br>
 React Native: React Native é uma ferramenta para criar apps móveis com JavaScript e React, permitindo rodar no iOS e Android com o mesmo código.
 
